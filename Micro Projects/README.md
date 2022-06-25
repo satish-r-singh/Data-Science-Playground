@@ -1,6 +1,6 @@
-# Test Read Me
+# Micro Projects
 
-A brief showcase of all the Data Science Projects done by me for various reasons.
+This folder mostly consists of Jupyter Notebooks, detailing some of the small projects I did.  
 
-This repository is further sub divided 
+For projects with end-to-end implimentation, please check out the [here](https://github.com/satish-r-singh/Data-Science-Portfolio).
 
