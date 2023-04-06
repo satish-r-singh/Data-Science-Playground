@@ -1,7 +1,6 @@
-# John Doe (Your Name)
+# Satish Rohit Singh - Data Science Playground
 
-👋 Hi there! Welcome to my GitHub profile. I'm John Doe, a Data Scientist passionate about machine learning, data analysis, and visualization. Feel free to explore my personal projects and repositories, which showcase my skills and experience in the field.
-
+👋 Hi there! I'm Satish R Singh and this is where i play.
 ## 📚 Table of Contents
 
 1. [Projects by Domain](#projects-by-domain)
