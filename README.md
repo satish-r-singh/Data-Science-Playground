@@ -27,7 +27,7 @@
 
 #### Finance
 
-* [Project 3](https://github.com/yourusername/project3) - Description of Project 3
+* [1. Stock Sentiment Analysis](https://github.com/satish-r-singh/Data-Science-Playground/tree/main/Stock-Sentiment-Analysis-Using-News-Headlines) - A simple Stock Sentiment Analysis for a specific company based on news headlines, using Bag of Words. 
 
 #### Retail
 
@@ -86,7 +86,7 @@
 
 #### Natural Language Processing
 
-* [Project 13](https://github.com/yourusername/project13) - Description of Project 13
+* [1. Stock Sentiment Analysis](https://github.com/satish-r-singh/Data-Science-Playground/tree/main/Stock-Sentiment-Analysis-Using-News-Headlines) - A simple Stock Sentiment Analysis for a specific company based on news headlines, using Bag of Words. 
 
 #### Computer Vision
 
