@@ -1,6 +1,6 @@
 # Satish Rohit Singh - Data Science Playground
 
-👋 Hi there! I'm Satish R Singh and this is where i play.
+👋 Hi there! I'm Satish R Singh and this is where I play.
 ## 📚 Table of Contents
 
 1. [Projects by Domain](#projects-by-domain)
