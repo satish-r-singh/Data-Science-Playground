@@ -3,7 +3,7 @@
 👋 Hi there! I'm Satish R Singh and this is where I play.
 ## 📚 Table of Contents
 
-1. [Projects by Domain](#projects-by-domain)
+1. [Projects by Domain/Industry](#projects-by-domain/industry)
 2. [Projects by Industry](#projects-by-industry)
 3. [Projects by ML Techniques](#projects-by-ml-techniques)
 4. [End-to-End Projects](#end-to-end-projects)
@@ -12,7 +12,7 @@
 
 ---
 
-### 🌐 Projects by Domain
+### 🌐 Projects by Domain/Industry
 
 * [Healthcare](#healthcare)
 * [Finance](#finance)
