@@ -18,6 +18,10 @@
 * [Finance](#finance)
 * [Retail](#retail)
 * [Transportation](#transportation)
+* [E-commerce](#e-commerce)
+* [Manufacturing](#manufacturing)
+* [Energy](#energy)
+* [Insurance](#insurance)
 * [Others](#others)
 
 #### Healthcare
@@ -41,13 +45,6 @@
 
 * [Project 6](https://github.com/yourusername/project6) - Description of Project 6
 
-### 🏭 Projects by Industry
-
-* [E-commerce](#e-commerce)
-* [Manufacturing](#manufacturing)
-* [Energy](#energy)
-* [Insurance](#insurance)
-
 #### E-commerce
 
 * [Project 7](https://github.com/yourusername/project7) - Description of Project 7
@@ -63,6 +60,8 @@
 #### Insurance
 
 * [Project 10](https://github.com/yourusername/project10) - Description of Project 10
+
+
 
 ### 🧪 Projects by ML Techniques
 
@@ -117,11 +116,6 @@
 * [Project 20](https://github.com/yourusername/project20) - Description of Project 20
 * [Project 21](https://github.com/yourusername/project21) - Description of Project 21
 
-### 📓 Notebooks
-
-* [Notebook 1](https://github.com/yourusername/notebook1) - Description of Notebook 1
-* [Notebook 2](https://github.com/yourusername/notebook2) - Description of Notebook 2
-* [Notebook 3](https://github.com/yourusername/notebook3) - Description of Notebook 3
 
 ### 📬 Get in Touch
 
